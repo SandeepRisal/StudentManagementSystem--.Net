@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38c29e6c-d569-4396-b664-6fb86ac80c24": {
+      "ProjectGuid": "38c29e6c-d569-4396-b664-6fb86ac80c24",
+      "DisplayName": "Student Management System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
